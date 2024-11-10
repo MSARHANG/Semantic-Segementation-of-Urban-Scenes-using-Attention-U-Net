@@ -35,14 +35,10 @@
 <p>The following examples illustrate the performance of the Attention U-Net on the Cityscapes dataset:</p>
 
 <p align="center">
-  <img src="results/real_image1.png" alt="Real Image 1" width="200">
-  <img src="results/mask1.png" alt="Mask 1" width="200">
-  <img src="results/prediction1.png" alt="Prediction 1" width="200">
+  <img src="results/real_image1.png" alt="result1" width="200">
 </p>
 <p align="center">
-  <img src="results/real_image2.png" alt="Real Image 2" width="200">
-  <img src="results/mask2.png" alt="Mask 2" width="200">
-  <img src="results/prediction2.png" alt="Prediction 2" width="200">
+    <img src="results/real_image2.png" alt="result2" width="200">
 </p>
 
 <p>Each row contains:</p>
