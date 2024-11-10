@@ -35,19 +35,19 @@
 <p>The following examples illustrate the performance of the Attention U-Net on the Cityscapes dataset:</p>
 
 <p align="center">
-  <img src="results/real_image1.jpg" alt="Real Image 1" width="200">
-  <img src="results/mask1.jpg" alt="Mask 1" width="200">
-  <img src="results/prediction1.jpg" alt="Prediction 1" width="200">
+  <img src="results/real_image1.png" alt="Real Image 1" width="200">
+  <img src="results/mask1.png" alt="Mask 1" width="200">
+  <img src="results/prediction1.png" alt="Prediction 1" width="200">
 </p>
 <p align="center">
-  <img src="results/real_image2.jpg" alt="Real Image 2" width="200">
-  <img src="results/mask2.jpg" alt="Mask 2" width="200">
-  <img src="results/prediction2.jpg" alt="Prediction 2" width="200">
+  <img src="results/real_image2.png" alt="Real Image 2" width="200">
+  <img src="results/mask2.png" alt="Mask 2" width="200">
+  <img src="results/prediction2.png" alt="Prediction 2" width="200">
 </p>
 <p align="center">
-  <img src="results/real_image3.jpg" alt="Real Image 3" width="200">
-  <img src="results/mask3.jpg" alt="Mask 3" width="200">
-  <img src="results/prediction3.jpg" alt="Prediction 3" width="200">
+  <img src="results/real_image3.png" alt="Real Image 3" width="200">
+  <img src="results/mask3.png" alt="Mask 3" width="200">
+  <img src="results/prediction3.png" alt="Prediction 3" width="200">
 </p>
 
 <p>Each row contains:</p>
